@@ -487,7 +487,7 @@ main > .overlay > .per > p > button > img{
         border-radius: 20px;
     }
     .overlay h2{
-        margin-top: 58%;
+        margin-top: -5%;
     }
     main div div iframe{
         width: 100%;
@@ -519,7 +519,7 @@ main > .overlay > .per > p > button > img{
         height: 1800px;
     }
     .overlay h2{
-        margin-top: 50%;
+        margin-top: -5%;
     }
     main div div iframe{
         width: 100%;
@@ -551,7 +551,7 @@ main > .overlay > .per > p > button > img{
         height: 1700px;
     }
     .overlay h2{
-        margin-top: 48%;
+        margin-top: -5%;
     }
 }
 @media (min-width: 442px) and (max-width: 489px){
@@ -567,7 +567,7 @@ main > .overlay > .per > p > button > img{
         height: 1500px;
     }
     .overlay h2{
-        margin-top: 30%;
+        margin-top: 7%;
     }
 }
 @media (min-width: 490px) and (max-width: 517px){
@@ -583,7 +583,7 @@ main > .overlay > .per > p > button > img{
         height: 1400px;
     }
     .overlay h2{
-        margin-top: 25%;
+        margin-top: 7%;
     }
 }
 @media (min-width: 518px) and (max-width: 633px){
@@ -599,7 +599,7 @@ main > .overlay > .per > p > button > img{
         height: 1300px;
     }
     .overlay h2{
-        margin-top: 13%;
+        margin-top: 7%;
     }
 }
 @media (min-width: 634px) and (max-width: 720px){
@@ -615,7 +615,7 @@ main > .overlay > .per > p > button > img{
         height: 1500px;
     }
     .overlay h2{
-        margin-top: 19%;
+        margin-top: 7%;
     }
 }
 @media (min-width: 721px) and (max-width: 781px){
