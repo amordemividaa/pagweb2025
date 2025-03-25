@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     function validarContrasena(contrasena) {
     // Compara la contraseña con la cadena exacta
-        return contrasena === "Luna Valentina Valbuena Barajas" || "Luna Valentina Valbuena Barajas "
+        return contrasena === "Luna Valentina Valbuena Barajas" || contrasena === "Luna Valentina Valbuena Barajas ";
     }
 
     function iniciarSesion(event){
